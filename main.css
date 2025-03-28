@@ -3,6 +3,7 @@
     margin: 0;
 
     cursor: none;
+    user-select: none;
 }
 body {
     background-color: #898989;
